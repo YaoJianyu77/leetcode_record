@@ -8,3 +8,5 @@ DP
 [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+
+[983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
