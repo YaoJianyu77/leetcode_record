@@ -2,11 +2,12 @@
 
 record all the solved algorithm questions in leetcode
 
-solving question process is guided by [labuladong 的算法笔记](https://labuladong.github.io/algo/)
+solving question process is guided by [算法小抄](https://labuladong.github.io/algo/home)
 
 
 
 ## DP
 
-| [322. Coin Change](https://leetcode.com/problems/coin-change/) | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) |                                                              |                                                              |                                                              |
