@@ -2,7 +2,7 @@
 
 record all the solved algorithm questions in leetcode
 
-solving question process is guided by [算法小抄](https://labuladong.github.io/algo/home)
+solving question process is guided by [算法小抄](https://labuladong.online/algo/home)
 
 
 
