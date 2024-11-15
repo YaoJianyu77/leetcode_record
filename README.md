@@ -1,8 +1,8 @@
 # leetcode_record
 
-record all the solved algorithm questions in leetcode
+record all the solved algorithm questions in leetcode.
 
-solving question process is guided by [算法小抄](https://labuladong.online/algo/home)
+solving question process is guided by [算法小抄](https://labuladong.online/algo/home) and [LeetCode 题解](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/05.Categories-List.md).
 
 
 
