@@ -4,6 +4,14 @@ record all the solved algorithm questions in leetcode.
 
 solving question process is guided by ~~[算法小抄](https://labuladong.online/algo/home)~~ [灵茶山艾府](https://leetcode.cn/circle/discuss/RvFUtj/) and [LeetCode 题解](https://github.com/itcharge/LeetCode-Py/blob/main/Contents/00.Introduction/05.Categories-List.md).
 
+## [Blind 75](https://leetcode.com/problem-list/oizxjoit/)
+
+|                                                              |      |      |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=oizxjoit) |      |      |      |
+|                                                              |      |      |      |
+|                                                              |      |      |      |
+
 
 
 ## [Dynamic Programming](https://leetcode.cn/circle/discuss/tXLS3i/)
@@ -17,5 +25,7 @@ solving question process is guided by ~~[算法小抄](https://labuladong.online
 | [2321. Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/description/) | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [国科大 Algorithm 第6节](https://www.bilibili.com/video/BV1ST4y1Y7sM/?p=10&share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a) | [国科大 Algorithm 第7节](https://www.bilibili.com/video/BV1ST4y1Y7sM/?p=10&share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a) |
 | [国科大 Algorithm 第8节](https://www.bilibili.com/video/BV1ST4y1Y7sM/?p=10&share_source=copy_web&vd_source=ab7451f5b47a47ebe1d2419b7091329a) | [国科大 Algorithm 第9节](https://www.bilibili.com/video/BV1ST4y1Y7sM/?spm_id_from=333.788.videopod.episodes&vd_source=1640d54f20dc80494ff13d569646806a&p=13) | [LCR 166. 珠宝的最高价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/description/) | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [120. Triangle](https://leetcode.com/problems/triangle/description/) | [3393. Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/) |
-| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/) | [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) |                                                              |
+| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [2304. Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/description/) | [1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/description/) | [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/) |
+| [1594. Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/description/) | [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/) | [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/) | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |
+| [国科大 Algorithm 第1.1讲](https://www.bilibili.com/video/BV1ST4y1Y7sM?spm_id_from=333.788.videopod.episodes&vd_source=1640d54f20dc80494ff13d569646806a&p=4) |                                                              |                                                              |                                                              |
 
