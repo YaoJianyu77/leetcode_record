@@ -28,6 +28,14 @@ solving question process is guided by ~~[算法小抄](https://labuladong.online
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit) | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=oizxjoit) | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) | [252. Meeting Rooms](https://neetcode.io/problems/meeting-schedule) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=oizxjoit) | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/?envType=problem-list-v2&envId=oizxjoit) | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=problem-list-v2&envId=oizxjoit) |                                                              |
 
+## [hot 100](https://leetcode.com/studyplan/top-100-liked/)
+
+|                                                              |                                                              |      |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-100-liked) | [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked) |      |      |
+|                                                              |                                                              |      |      |
+|                                                              |                                                              |      |      |
+
 
 
 ## [Dynamic Programming](https://leetcode.cn/circle/discuss/tXLS3i/)
